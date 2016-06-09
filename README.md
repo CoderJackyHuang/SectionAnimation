@@ -1,0 +1,2 @@
+# SectionAnimation
+利用UITableView的section实现像QQ那样的展开与收起的效果
